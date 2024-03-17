@@ -42,9 +42,9 @@ const AwardedWorks = () => {
             transition: { duration: 0.8, delay: 0.3 },
           }}
           className="text-[#929294] lg:w-[30%] font-medium lg:text-base text-[80%] text-left my-6 md:my-0"
-        >
+        >< h6>
           We are passionate digital market, we always produce projects that both
-          ourselves and our clients can be truly proud of
+          ourselves and our clients can be truly proud of</h6>
         </motion.p>
         <motion.div
           initial={{
